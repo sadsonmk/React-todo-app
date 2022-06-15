@@ -7,7 +7,7 @@ const Header = ({ name }) => {
     <div className="header">
       <h1 >{name}Task App </h1>
       <Button color='blue' />
-      <Button color='green' text='Calculate' />
+      {/* <Button color='green' text='Calculate' /> */}
 
     </div>
   )
